@@ -1,1 +1,3 @@
-# veriverse_2.0
+# pre-requisites:
+- go to this website : https://sourceforge.net/projects/vcxsrv/
+- click on download
